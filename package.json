@@ -1,0 +1,27 @@
+{
+  "name": "firebase-facebook-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper api for facebook with firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banana1982/wrapper-api-firebase-facebook.git"
+  },
+  "keywords": [
+    "wrapper",
+    "api"
+  ],
+  "author": "cuonglt2",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banana1982/wrapper-api-firebase-facebook/issues"
+  },
+  "homepage": "https://github.com/banana1982/wrapper-api-firebase-facebook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
